@@ -1,0 +1,44 @@
+li.dayinlist {
+  padding-top: 30px;
+}
+
+li.slotinlist {
+  background-color: #d8eff3;
+  border-color: #007bff;
+}
+
+span.slotinlist {
+  font-size: 120%;
+}
+
+li.paperinlist {
+  border-color: #007bff;
+  background-color: #fff;
+  margin: 5px;
+  padding: 5px;
+  transition: opacity 0.4s ease-in-out;
+  /* background-color: #fef1f1; */
+}
+
+span.paperdetails {
+  font-style: italic;
+}
+
+li.roominlist {
+  /* background-color: #e9e9e9; */
+}
+
+div.timeslot {
+    font-size: 120%;
+    padding: 10px;
+    border-bottom: 1px;
+    
+}
+
+@media print {
+    div.cd-schedule-fullday {
+        overflow: auto;
+        height: auto;
+    
+    }    
+}

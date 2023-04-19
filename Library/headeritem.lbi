@@ -1,0 +1,85 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<header id="header"><!--header starts -->
+		<div class="container1">
+        <div id="header-top">
+        <section class="flex-container2 with-margin"><!-- flex slider starts-->
+					<div class="flexslider ">
+						<ul class="slides">
+							<li><img src="../vic_img/icps_title.png" alt=""/></li><!-- replace this with the header graphics 1040px wide-->
+						</ul>
+					</div>
+		  </section><!-- flex slider ends--> 
+                        <!--img sizes="(min-width: 18em) 100vw"
+	srcset="images/LFK2014-headerx300.png 330w, 
+			images/LFK2014-headerx440.png 440w, 
+            images/LFK2014-headerx794.png 794w, 
+            images/LFK2014-header.png 1040w" alt=""-->
+      </div></div>
+      
+		<div id="main-navigation"><!--main navigation wrapper starts -->
+			<div class="container1" style="margin-left:35px;"><!--main navigation starts -->
+									<ul class="main-menu"><!--main navigation starts -->
+					<li><a href="index.html" title="Home">Home </a>
+
+                    <li><a href="committees.html">Committees</a></li>
+					<li><a href="#">Special Sessions</a>
+                    <ul>
+						<li><a href="specialsessions.html">Submission Information</a></li>
+					</ul>
+                    </li>
+					  <li><a href="#">Tutorials</a>  </li>
+<!--                    <li><a href="#">Tutorials</a>
+
+                    <ul>
+						<li><a href="callfortutorials.html">Call for Tutorials</a></li>
+					</ul>
+                    </li>-->
+                    <li><a href="#">For Authors</a>
+                     <ul>
+                   <!--    <li><a href="registration.html">Registration</a></li>-->
+                        <li><a href="initialsubmissioninfo.html">Initial Submission</a></li>
+                    <!--    <li><a href="finalsubmission.html">Final Submission</a></li>-->
+<!--                        <li><a href="finalsubmission.html">Information for Final Submission</a></li>-->
+						
+					</ul></li>
+                    <!--li><a href="#">Sponsorship</a></li-->
+                    <li><a href="#">Program</a>
+                    <!-- <ul>-->
+						
+						<li><a href="#p">Draft Program</a></li>
+<!--                        <li><a href="#">Conference Guide</a></li>
+-->
+						<!--<li><a href="kspearkers.html">Keynote Speakers</a></li>
+                        <li><a href="finalprogram.html">Final Program</a></li>
+						<li><a href="industryforum.html">Industry Forum</a></li>
+						<li><a href="WIE.html">Women in IES Workshop</a></li>
+						<li><a href="ypsactivity.html">YPS Activity Day</a></li>
+						<li><a href="workshop.html">Workshops</a></li>
+						<li><a href="workinggroup.html">Working Group Meetings</a></li>-->
+						 
+<!--
+                        <li><a href="social.html">Social Events</a></li>
+						<li><a href="#">Partners Program</a></li>
+-->
+				<!--	</ul>-->
+				</li>
+                    <!--li><a href="#">Conference Pictures</a></li-->
+                  <!--  <li><a href="accommodation.html">Accommodation</a></li>-->
+                  <!--  <li><a href="conf_photo.html">Photos</a>
+                     <ul>
+
+						<li><a href="travelinformation.html">Travel Information</a></li>
+                        li><a href="#">Travel on myki</a></li
+                        <li><a href="visa.html">VISA Information</a></li>
+						<li><a href="venue.html">Venue Information</a></li>
+                        <li><a href="attractions.html">Cairns Attractions</a></li>
+						<li><a href="#">Food & Leisure</a></li>
+
+					</ul></li>-->
+					<li><a href="../victoria.html">About Victoria</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+				</ul>
+                <!-- main navigation ends--><!-- main navigation ends-->
+			</div>
+		</div><!--main navigation wrapper ends -->
+		</header><!-- header ends-->

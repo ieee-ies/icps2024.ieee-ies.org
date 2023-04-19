@@ -1,0 +1,67 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<header id="header"><!--header starts -->
+		<div class="container1">
+        <div id="header-top">
+        <section class="flex-container2 with-margin"><!-- flex slider starts-->
+					<div class="flexslider ">
+						<ul class="slides">
+							<!--<li><img src="../vic_img/icps_title.png" alt=""/></li>--><!-- replace this with the header graphics 1040px wide-->
+							<a href="/vic_img/icps_title.png">
+    <img src="../vic_img/icps_title.png" alt="" />
+</a>
+						</ul>
+					</div>
+		  </section>
+      </div></div>
+      		<div id="main-navigation"><!--main navigation wrapper starts -->
+			<div class="container1" style="margin-left:35px;"><!--main navigation starts -->
+									<ul class="main-menu"><!--main navigation starts -->
+					<li><a href="../index.html" title="Home">Home </a>
+
+                    <li><a href="../committees.html">Committees</a></li>
+					<li><a href="#">Special Sessions</a>
+                    <ul>
+						<li><a href="../specialsessions.html">Submission Information</a></li>
+						<li><a href="../approvedspecialsessions.html">Approved Special Sessions</a></li>
+					</ul>
+                    </li>
+					<li><a href="#">Tutorials</a>
+					<ul>
+						<li><a href="../callfortutorials.html">Call for Tutorials</a>  </li>
+						<li><a href="../approvedtutorials.html">Approved Tutorials</a></li>
+					</ul>
+                    <li><a href="#">For Authors</a>
+                     <ul style="width:200pt">						 
+                        <li><a href="../topics.html">Technical Tracks</a></li>
+                        <li><a href="../initialsubmissioninfo.html">Initial Submission</a></li>						 
+                        <li><a href="../finalsubmission.html">Final Submission</a></li>
+						 <li><a href="../registration.html">Registration</a></li>
+						 <li><a href="../videopreparation.html">Instructions of Video Preparation</a></li>
+						 <li><a href="../sypa.html">Student &amp; Young Proffessionals</a></li>
+						 
+					</ul></li>
+										
+                    <!--li><a href="#">Sponsorship</a></li-->
+                    <li><a href="#">Program</a>   
+					<ul>
+						<li><a href="../draftprogram.html">Program Information</a></li>
+						<li><a href="../kspearkers.html">Plenary Speakers</a></li>
+						<li><a href="../industryforum.html">Industry Forum</a></li>
+						<li><a href="../bestpaper.html">Best Paper Award</a></li>
+						<li><a href="../ypsactivity.html">YPS Activity Day</a></li>
+						<li><a href="../distinguishtalk.html">Distinguished Speakers</a></li>
+						
+					</ul></li> 
+					<li><a href="#">Online Organization</a>	
+						<ul style="width:200pt">
+							<li><a href="../videopreparation.html">Instructions of Video Preparation</a></li>
+							<li><a href="../techcheck.html">Technical Check</a></li>
+						</ul></li>
+					<li><a href="../victoria.html">Victoria</a></li>
+					<li><a href="../sponsor.html">Sponsors</a></li><!--
+                    <li><a href="../contact.html">Contact Us</a></li>	-->									
+				</ul>
+                <!-- main navigation ends--><!-- main navigation ends-->
+			</div>
+		</div><!--main navigation wrapper ends -->
+		</header><!-- header ends-->
