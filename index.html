@@ -249,12 +249,16 @@ It is a great opportunity to meet old friends and colleagues, find new ones and 
             max-width: 650px; /* Set a maximum width for the box */
             border: 2px solid #FF5733; /* Change the border color here */
             background-color: #F2F2F2; /* Change the background color here */
-            padding: 15px%;
+            padding: 10px;
             margin: 0 auto; /* Center the box horizontally */
 	    font-size: 16px; /* Change the font size here */
         }
+	@media (max-width: 480px) {
+            .textbox {
+                font-size: 14px; /* Adjust font size for smaller screens */
+            }
+        }
     </style>
-
 <body>
     <div class="textbox">
         <strong>Authors who face travel restrictions due to force majeure and can not attend in person, are kindly requested to contact the conference organizers committee after the acceptance of the paper, for consideration and approval of alternative ways to present their work.</strong>
